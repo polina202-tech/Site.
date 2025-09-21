@@ -28,7 +28,7 @@ body {
 
 .melting-text::before,
 .melting-text::after {
-    content: 'MELTING';
+    content: 'Сайт ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯';
     position: absolute;
     top: 0;
     left: 0;
